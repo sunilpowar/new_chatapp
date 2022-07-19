@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'mydb',
         'USER': 'sunil',
         'PASSWORD': 'sunil',
-        'HOST': 'database',
+        'HOST': 'databasecompose',
         'PORT': '3306',
     }
 }
